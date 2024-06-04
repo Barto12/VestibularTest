@@ -1,0 +1,16 @@
+user_id,date,romberg_result,unterberger_result,fukuda_result,symptoms,ear_affected
+1,2024-06-03 18:15:57,positivo,,,,
+1,2024-06-03 18:16:08,,positivo,,,
+1,2024-06-03 18:16:18,,,positivo,,
+1,2024-06-03 18:16:33,,,,"mareo, vértigo, náuseas, no_pérdida_auditiva",
+1,2024-06-03 18:16:49,,,,,derecho
+1,2024-06-03 18:20:34,positivo,,,,
+1,2024-06-03 18:20:56,,positivo,,,
+1,2024-06-03 18:21:12,,,positivo,,
+1,2024-06-03 18:21:27,,,,"mareo, no_vértigo, no_náuseas, no_pérdida_auditiva",
+1,2024-06-03 18:21:57,,,,,izquierdo
+1,2024-06-03 18:29:32,positivo,,,,
+1,2024-06-03 18:29:51,,positivo,,,
+1,2024-06-03 18:30:03,,,positivo,,
+1,2024-06-03 18:30:20,,,,"mareo, no_vértigo, náuseas, no_pérdida_auditiva",
+1,2024-06-03 18:30:47,,,,,izquierdo
